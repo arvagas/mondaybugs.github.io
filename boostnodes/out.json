@@ -13,7 +13,6 @@
             "arch-mage-ice-lightning.png",
             "ark.png",
             "battle-mage.png",
-            "beast-tamer.png",
             "bishop.png",
             "blaster.png",
             "blaze-wizard.png",
@@ -32,7 +31,6 @@
             "hero.png",
             "hoyoung.png",
             "illium.png",
-            "jett.png",
             "kain.png",
             "kaiser.png",
             "kanna.png",
@@ -167,26 +165,6 @@
                 "quintuple-blow.png",
                 "sweeping-staff.png",
                 "triple-blow.png"
-            ]
-        },
-        "beast-tamer": {
-            "files": [
-                "deep-breath.png",
-                "fire-kitty.png",
-                "fishy-slap.png",
-                "formation-attack.png",
-                "friend-launcher.png",
-                "group-bear-blaster.png",
-                "leopards-paw.png",
-                "lil-fort.png",
-                "macho-dance.png",
-                "party-time.png",
-                "paw-swipe.png",
-                "really-deep-breath.png",
-                "table-flip.png",
-                "three-point-pounce.png",
-                "thunder-dash.png",
-                "tornado-flight.png"
             ]
         },
         "bishop": {
@@ -465,22 +443,6 @@
                 "reaction-destruction-ii.png",
                 "umbral-brand-iii.png",
                 "vortex-wings.png"
-            ]
-        },
-        "jett": {
-            "files": [
-                "backup-beatdown.png",
-                "blaster-barrage.png",
-                "cosmic-upheaval.png",
-                "falling-stars.png",
-                "planet-buster.png",
-                "singularity-shock.png",
-                "starforce-salvo.png",
-                "starline-one.png",
-                "starline-three.png",
-                "starline-two.png",
-                "stellar-impact.png",
-                "vortex-cross.png"
             ]
         },
         "kain": {
