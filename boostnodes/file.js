@@ -1,2 +1,7 @@
-var filenamesToJSON = require("filenames-to-json");
-filenamesToJSON('./assets', 'out.json', null, 4);
+import filenamesToJSON from "filenames-to-json";
+filenamesToJSON({
+    path: "./assets",
+    output: "out.json",
+    filesKey: "files",
+    indentlevel: 4
+});

@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "filenames-to-json": "^1.0.0"
-  }
+    "filenames-to-json": "^1.0.1"
+  },
+  "type": "module"
 }
